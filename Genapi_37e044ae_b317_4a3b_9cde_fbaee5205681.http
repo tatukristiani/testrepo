@@ -1,0 +1,6 @@
+@Genapi_37e044ae_b317_4a3b_9cde_fbaee5205681_HostAddress = http://localhost:5226
+
+GET {{Genapi_37e044ae_b317_4a3b_9cde_fbaee5205681_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
