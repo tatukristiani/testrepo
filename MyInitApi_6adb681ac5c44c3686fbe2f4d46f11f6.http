@@ -1,0 +1,6 @@
+@MyInitApi_6adb681ac5c44c3686fbe2f4d46f11f6_HostAddress = http://localhost:5139
+
+GET {{MyInitApi_6adb681ac5c44c3686fbe2f4d46f11f6_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
